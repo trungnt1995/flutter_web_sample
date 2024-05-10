@@ -64274,78 +64274,78 @@ return A.cU(A.Y(new A.a3(s,new A.a5i(s),r),!0,r.h("aL.E")),B.H,B.hH,B.v)},
 a0X(){var s=t.Jm
 return A.cU(A.Y(new A.a3(A.a(["twitter","tele","instagram","medium","github","reddit"],t.s),new A.a5o(),s),!0,s.h("aL.E")),B.H,B.hH,B.v)}}
 A.a5p.prototype={
-$2(b0,b1){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0=null,a1="assets/images/logo.svg",a2="assets/images/crown.svg",a3="Creators can gain independence through a decentralised digital currency system that is dependent on growing and engaging with the community and also their star power. They own 10-15% of the total value of the tokens minted.",a4="CenturyGothic",a5="assets/images/arrow_right.svg",a6="More Marketing and promotion",a7="2021",a8="0/04/2021 - 16/04/2021",a9=b1.b
-if(a9<600)return B.zD
-else if(a9<900)return B.zC
-else{a9=this.a
+$2(a9,b0){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0=null,a1="assets/images/logo.svg",a2="Creators can gain independence through a decentralised digital currency system that is dependent on growing and engaging with the community and also their star power. They own 10-15% of the total value of the tokens minted.",a3="CenturyGothic",a4="assets/images/arrow_right.svg",a5="More Marketing and promotion",a6="2021",a7="0/04/2021 - 16/04/2021",a8=b0.b
+if(a8<600)return B.zD
+else if(a8<900)return B.zC
+else{a8=this.a
 s=A.cN(a0,a0,B.Ad,a0,a0,a0,a0,a0)
 r=t.D
-q=A.fJ(B.b0,A.a([A.jd(a0,A.os("assets/images/bg.png",B.jd,B.dE,a0,1000),a0,a0,a0,-100,-100,a0),new A.bL(B.DD,A.cU(A.a([new A.bL(B.Dx,A.kK(a1,a0,30,a0),a0),new A.by(0,80,0.7,a0),a9.SZ(),B.Md,a9.T1()],r),B.fR,B.x,B.v),a0)],r),B.G,B.aE)
+q=A.fJ(B.b0,A.a([A.jd(a0,A.os("assets/images/bg.png",B.jd,B.dE,a0,1000),a0,a0,a0,-100,-100,a0),new A.bL(B.DD,A.cU(A.a([new A.bL(B.Dx,A.kK(a1,a0,30,a0),a0),new A.by(0,80,0.7,a0),a8.SZ(),B.Md,a8.T1()],r),B.fR,B.x,B.v),a0)],r),B.G,B.aE)
 p=A.jd(a0,A.os("assets/images/phone_bg.png",B.jd,B.dE,a0,1000),a0,a0,a0,0,-200,a0)
-o=a9.ST()
+o=a8.ST()
 n=t.sq
 m=A.a([new A.ek(4,B.br,A.a5(64,34,167,93),B.d8,10)],n)
-m=A.cN(a0,new A.bL(B.kX,A.kK(a2,a0,24,24),a0),a0,new A.d1(B.bY,a0,a0,B.jj,m,a0,B.a5),70,a0,a0,70)
+m=A.cN(a0,new A.bL(B.kX,A.kK("assets/images/crown.svg",a0,24,24),a0),a0,new A.d1(B.bY,a0,a0,B.jj,m,a0,B.a5),70,a0,a0,70)
 l=A.kC(a0,a0,B.aV,a0,a0,!0,a0,B.Nz,B.ae,a0,a0,B.Z,B.at)
 k=B.c.aw(127.5)
-j=A.cL(a0,a0,A.a5(k,221,226,255),a0,a0,a0,a0,a0,a4,a0,a0,16,a0,a0,B.j,a0,a0,!0,a0,a0,a0,a0,a0,a0,a0,a0)
-i=a9.c
+j=A.cL(a0,a0,A.a5(k,221,226,255),a0,a0,a0,a0,a0,a3,a0,a0,16,a0,a0,B.j,a0,a0,!0,a0,a0,a0,a0,a0,a0,a0,a0)
+i=a8.c
 i.toString
-i=A.fr(A.dN(A.a([A.cN(a0,new A.bL(B.kY,A.dN(A.a([m,new A.by(20,0,0.7,a0),l,new A.by(20,0,0.7,a0),A.bs(a3,a0,j,new A.br(A.cc(i,0.8))),new A.by(68,0,0.7,a0),A.cU(A.a([A.kC(a0,a0,B.aV,a0,a0,!0,a0,B.Nt,B.ae,a0,a0,B.Z,B.at),new A.by(6,0,0.7,a0),A.kK(a5,a0,16,16)],r),B.H,B.x,B.v)],r),B.av,B.x,B.v),a0),a0,B.jq,a0,a0,a0,a0),new A.by(60,0,0.7,a0)],r),B.H,B.x,B.v),1)
+i=A.fr(A.dN(A.a([A.cN(a0,new A.bL(B.kY,A.dN(A.a([m,new A.by(20,0,0.7,a0),l,new A.by(20,0,0.7,a0),A.bs(a2,a0,j,new A.br(A.cc(i,0.8))),new A.by(68,0,0.7,a0),A.cU(A.a([A.kC(a0,a0,B.aV,a0,a0,!0,a0,B.Nt,B.ae,a0,a0,B.Z,B.at),new A.by(6,0,0.7,a0),A.kK(a4,a0,16,16)],r),B.H,B.x,B.v)],r),B.av,B.x,B.v),a0),a0,B.jq,a0,a0,a0,a0),new A.by(60,0,0.7,a0)],r),B.H,B.x,B.v),1)
 n=A.a([new A.ek(4,B.br,A.a5(64,34,120,212),B.d8,10)],n)
-n=A.cN(a0,new A.bL(B.kX,A.kK(a2,a0,24,24),a0),a0,new A.d1(B.cA,a0,a0,B.jj,n,a0,B.a5),70,a0,a0,70)
+n=A.cN(a0,new A.bL(B.kX,A.kK("assets/images/star.svg",a0,24,24),a0),a0,new A.d1(B.cA,a0,a0,B.jj,n,a0,B.a5),70,a0,a0,70)
 j=A.kC(a0,a0,B.aV,a0,a0,!0,a0,B.ND,B.ae,a0,a0,B.Z,B.at)
-k=A.cL(a0,a0,A.a5(k,221,226,255),a0,a0,a0,a0,a0,a4,a0,a0,16,a0,a0,B.j,a0,a0,!0,a0,a0,a0,a0,a0,a0,a0,a0)
-l=a9.c
+k=A.cL(a0,a0,A.a5(k,221,226,255),a0,a0,a0,a0,a0,a3,a0,a0,16,a0,a0,B.j,a0,a0,!0,a0,a0,a0,a0,a0,a0,a0,a0)
+l=a8.c
 l.toString
-l=A.cU(A.a([i,new A.by(0,20,0.7,a0),A.fr(A.dN(A.a([new A.by(60,0,0.7,a0),A.cN(a0,new A.bL(B.kY,A.dN(A.a([n,new A.by(20,0,0.7,a0),j,new A.by(20,0,0.7,a0),A.bs(a3,a0,k,new A.br(A.cc(l,0.8))),new A.by(68,0,0.7,a0),A.cU(A.a([A.kC(a0,a0,B.aV,a0,a0,!0,a0,B.Nw,B.ae,a0,a0,B.Z,B.at),new A.by(6,0,0.7,a0),A.kK(a5,B.DL,16,16)],r),B.H,B.x,B.v)],r),B.av,B.x,B.v),a0),a0,B.jq,a0,a0,a0,a0)],r),B.H,B.x,B.v),1)],r),B.H,B.x,B.v)
-k=a9.c
+l=A.cU(A.a([i,new A.by(0,20,0.7,a0),A.fr(A.dN(A.a([new A.by(60,0,0.7,a0),A.cN(a0,new A.bL(B.kY,A.dN(A.a([n,new A.by(20,0,0.7,a0),j,new A.by(20,0,0.7,a0),A.bs(a2,a0,k,new A.br(A.cc(l,0.8))),new A.by(68,0,0.7,a0),A.cU(A.a([A.kC(a0,a0,B.aV,a0,a0,!0,a0,B.Nw,B.ae,a0,a0,B.Z,B.at),new A.by(6,0,0.7,a0),A.kK(a4,B.DL,16,16)],r),B.H,B.x,B.v)],r),B.av,B.x,B.v),a0),a0,B.jq,a0,a0,a0,a0)],r),B.H,B.x,B.v),1)],r),B.H,B.x,B.v)
+k=a8.c
 k.toString
 j=t.w
 h=Math.max(A.co(k,a0,j).w.a.a/1920,0.7)
 k=A.fr(A.os("assets/images/image_1.png",B.a2,B.js,a0,a0),1)
-n=a9.c
+n=a8.c
 n.toString
 n=A.os("assets/images/image_2.png",B.a2,B.js,a0,A.co(n,a0,j).w.a.a/2)
-i=a9.c
+i=a8.c
 i.toString
 i=A.bs("What makes us different?",a0,B.Ob,new A.br(A.cc(i,0.7)))
-m=A.cL(a0,a0,A.a5(153,15,19,32),a0,a0,a0,a0,a0,a4,a0,a0,16,a0,a0,B.P,a0,a0,!0,a0,a0,a0,a0,a0,a0,a0,a0)
-g=a9.c
+m=A.cL(a0,a0,A.a5(153,15,19,32),a0,a0,a0,a0,a0,a3,a0,a0,16,a0,a0,B.P,a0,a0,!0,a0,a0,a0,a0,a0,a0,a0,a0)
+g=a8.c
 g.toString
 g=A.bs("We would only launch tokens with the express permission of the creators.",a0,m,new A.br(A.cc(g,0.7)))
-m=A.cL(a0,a0,A.a5(153,15,19,32),a0,a0,a0,a0,a0,a4,a0,a0,16,a0,a0,B.j,a0,a0,!0,a0,a0,a0,a0,a0,a0,a0,a0)
-f=a9.c
+m=A.cL(a0,a0,A.a5(153,15,19,32),a0,a0,a0,a0,a0,a3,a0,a0,16,a0,a0,B.j,a0,a0,!0,a0,a0,a0,a0,a0,a0,a0,a0)
+f=a8.c
 f.toString
 f=A.bs("There are several thousand celebrities and creators on twitter, tiktok, Instagram and YouTube with followings in the millions who we would be actively engaging before we go viral.",a0,m,new A.br(A.cc(f,0.7)))
-m=A.cL(a0,a0,A.a5(153,15,19,32),a0,a0,a0,a0,a0,a4,a0,a0,16,a0,a0,B.j,a0,a0,!0,a0,a0,a0,a0,a0,a0,a0,a0)
-e=a9.c
+m=A.cL(a0,a0,A.a5(153,15,19,32),a0,a0,a0,a0,a0,a3,a0,a0,16,a0,a0,B.j,a0,a0,!0,a0,a0,a0,a0,a0,a0,a0,a0)
+e=a8.c
 e.toString
 e=A.cU(A.a([k,A.fr(A.fJ(B.a2,A.a([n,A.pg(A.dN(A.a([new A.by(120,0,0.6,a0),i,new A.by(30,0,0.7,a0),g,new A.by(30,0,0.7,a0),f,new A.by(30,0,0.7,a0),A.bs("We would get them on our platform and they would see the opportunity to create a fan driven digital economy where their digital content can be traded as NFTs and their most loyal fans can have the monetary value of their creator's currency increase significantly as they promote their digital currency across their channels while our native token holders benefit from the Weentar popularity.",a0,m,new A.br(A.cc(e,0.7)))],r),B.av,B.hH,B.v),a0,h*600)],r),B.ah,B.aE),1)],r),B.H,B.x,B.v)
 m=t.s
 d=A.a(["Team set-up","Launch of informational website"],m)
 c=A.a(["Presale and exchange listings","Blockchain development and launch","Launch of our MVP","Influencer agency partnerships","Marketing and promotion"],m)
-b=A.a(["Celebrity, Creator and Influencer partnerships","Expansion of creator communities on our platform",a6],m)
-a=A.a(["Mainstream partnerships","500 active creator communities","2Million active community members",a6],m)
-m=a9.c
+b=A.a(["Celebrity, Creator and Influencer partnerships","Expansion of creator communities on our platform",a5],m)
+a=A.a(["Mainstream partnerships","500 active creator communities","2Million active community members",a5],m)
+m=a8.c
 m.toString
-m=A.fJ(B.b0,A.a([A.jd(a0,A.cN(a0,a0,B.i,a0,4,a0,a0,A.co(m,a0,j).w.a.a/2),a0,a0,a0,0,-2,a0),A.cN(a0,A.cN(a0,new A.bL(B.DC,A.dN(A.a([A.cU(A.a([a9.qE("Q1",a7,d,B.bY),a9.qE("Q2",a7,c,B.cA),a9.qE("Q3",a7,b,B.fP),a9.qE("Q4",a7,a,B.BR)],r),B.av,B.x,B.v),new A.by(170,0,0.7,a0),a9.T2()],r),B.H,B.x,B.v),a0),a0,B.y9,a0,a0,a0,a0),B.i,a0,a0,a0,a0,a0)],r),B.G,B.aE)
-f=a9.c
+m=A.fJ(B.b0,A.a([A.jd(a0,A.cN(a0,a0,B.i,a0,4,a0,a0,A.co(m,a0,j).w.a.a/2),a0,a0,a0,0,-2,a0),A.cN(a0,A.cN(a0,new A.bL(B.DC,A.dN(A.a([A.cU(A.a([a8.qE("Q1",a6,d,B.bY),a8.qE("Q2",a6,c,B.cA),a8.qE("Q3",a6,b,B.fP),a8.qE("Q4",a6,a,B.BR)],r),B.av,B.x,B.v),new A.by(170,0,0.7,a0),a8.T2()],r),B.H,B.x,B.v),a0),a0,B.y9,a0,a0,a0,a0),B.i,a0,a0,a0,a0,a0)],r),B.G,B.aE)
+f=a8.c
 f.toString
 f=A.co(f,a0,j).w
-g=a9.c
+g=a8.c
 g.toString
 g=A.jd(a0,A.cN(a0,A.os("assets/images/mask_bg.png",B.a2,a0,a0,A.co(g,a0,j).w.a.a),B.aF,a0,a0,a0,a0,a0),a0,a0,a0,a0,-1,a0)
-i=a9.c
+i=a8.c
 i.toString
-f=A.cN(a0,A.fJ(B.fh,A.a([g,A.dN(A.a([new A.by(400,0,0.7,a0),A.bs("Presale Details",a0,B.iF,new A.br(A.cc(i,0.8))),new A.bL(B.cF,A.cU(A.a([a9.Gl("1","Phase one",a8,B.bY),B.wh,a9.Gm("2","Phase two",a8,B.cA,!0),B.wh,a9.Gl("3","Phase three",a8,B.fP)],r),B.H,B.x,B.v),a0),new A.by(160,0,0.7,a0)],r),B.H,B.x,B.qo)],r),B.G,B.aE),B.aF,a0,a0,a0,a0,f.a.a)
+f=A.cN(a0,A.fJ(B.fh,A.a([g,A.dN(A.a([new A.by(400,0,0.7,a0),A.bs("Presale Details",a0,B.iF,new A.br(A.cc(i,0.8))),new A.bL(B.cF,A.cU(A.a([a8.Gl("1","Phase one",a7,B.bY),B.wh,a8.Gm("2","Phase two",a7,B.cA,!0),B.wh,a8.Gl("3","Phase three",a7,B.fP)],r),B.H,B.x,B.v),a0),new A.by(160,0,0.7,a0)],r),B.H,B.x,B.qo)],r),B.G,B.aE),B.aF,a0,a0,a0,a0,f.a.a)
 i=A.jd(0,A.os("assets/images/footer_bg.png",B.jc,B.dE,a0,1000),a0,a0,a0,0,a0,a0)
-g=a9.c
+g=a8.c
 g.toString
 j=A.jd(a0,A.cN(a0,a0,B.aF,a0,10,a0,a0,A.co(g,a0,j).w.a.a),a0,a0,a0,0,-4,a0)
-g=a9.c
+g=a8.c
 g.toString
-return A.fJ(B.b0,A.a([s,new A.Gr(A.fJ(B.b0,A.a([A.dN(A.a([q,new A.by(100,0,0.7,a0),A.fJ(B.b0,A.a([p,A.dN(A.a([new A.bL(B.cF,o,a0),new A.by(430,0,0.7,a0),new A.bL(B.cF,l,a0),new A.by(130,0,0.7,a0),e,m,f,A.cN(a0,A.fJ(B.b0,A.a([i,j,A.dN(A.a([A.dN(A.a([A.bs("How to buy",a0,B.iG,new A.br(A.cc(g,0.8))),B.M7,new A.bL(B.cF,A.cU(A.a([a9.Z7("1",'First Connect your Metamask or TrustWallet to the "Connect Wallet" on the Homepage.',!1),new A.by(0,20,0.7,a0),a9.Z6("2","Then send minimum of 0.1 BNB or maximum of 10 BNB to the Presale wallet",!0),new A.by(0,20,0.7,a0),a9.Z5("3","Then after you will received your $WNTR to your address within 24hours. ",120)],r),B.H,B.x,B.v),a0)],r),B.H,B.x,B.v),new A.by(120,0,0.7,a0),a9.SU(),new A.by(120,0,0.7,a0),new A.bL(B.cF,A.cU(A.a([A.fr(new A.ll(B.fj,a0,a0,A.kK(a1,a0,30,a0),a0),1),new A.tj(2,B.DR,a9.a0X(),a0),B.DM],r),B.H,B.x,B.v),a0),new A.by(150,0,0.7,a0)],r),B.H,B.x,B.v)],r),B.G,B.aE),B.aF,a0,a0,a0,a0,a0)],r),B.H,B.x,B.v)],r),B.G,B.aE)],r),B.H,B.x,B.v)],r),B.ah,B.aE),a0)],r),B.ah,B.aE)}},
+return A.fJ(B.b0,A.a([s,new A.Gr(A.fJ(B.b0,A.a([A.dN(A.a([q,new A.by(100,0,0.7,a0),A.fJ(B.b0,A.a([p,A.dN(A.a([new A.bL(B.cF,o,a0),new A.by(430,0,0.7,a0),new A.bL(B.cF,l,a0),new A.by(130,0,0.7,a0),e,m,f,A.cN(a0,A.fJ(B.b0,A.a([i,j,A.dN(A.a([A.dN(A.a([A.bs("How to buy",a0,B.iG,new A.br(A.cc(g,0.8))),B.M7,new A.bL(B.cF,A.cU(A.a([a8.Z7("1",'First Connect your Metamask or TrustWallet to the "Connect Wallet" on the Homepage.',!1),new A.by(0,20,0.7,a0),a8.Z6("2","Then send minimum of 0.1 BNB or maximum of 10 BNB to the Presale wallet",!0),new A.by(0,20,0.7,a0),a8.Z5("3","Then after you will received your $WNTR to your address within 24hours. ",120)],r),B.H,B.x,B.v),a0)],r),B.H,B.x,B.v),new A.by(120,0,0.7,a0),a8.SU(),new A.by(120,0,0.7,a0),new A.bL(B.cF,A.cU(A.a([A.fr(new A.ll(B.fj,a0,a0,A.kK(a1,a0,30,a0),a0),1),new A.tj(2,B.DR,a8.a0X(),a0),B.DM],r),B.H,B.x,B.v),a0),new A.by(150,0,0.7,a0)],r),B.H,B.x,B.v)],r),B.G,B.aE),B.aF,a0,a0,a0,a0,a0)],r),B.H,B.x,B.v)],r),B.G,B.aE)],r),B.H,B.x,B.v)],r),B.ah,B.aE),a0)],r),B.ah,B.aE)}},
 $S:375}
 A.a5k.prototype={
 $1(a){var s=this.a.c
